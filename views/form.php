@@ -5,8 +5,6 @@
     </head>
     <body>
       <h1>Bonjour</h1>
-      <p>
         <a href='/mvc/info'>info</a>
-      </p>
     </body>
 </html>
